@@ -1,86 +1,42 @@
 {
     "footerAboutWidget": {
-        "logoSrc": "/images/logo/footer-logo.png",
-        "telephone": "0123456789",
-        "email": "demo@example.com",
-        "fbUrl": "https://www.facebook.com/",
-        "twitterUrl": "https://twitter.com/",
-        "instagramUrl": "https://www.instagram.com/"
+       
+        "telephone": "(031) 995 33993 | 0821 3222 9796",
+        "email": "humas@yohannesgabrielpw1.org",
+        "fbUrl": "#",
+        "twitterUrl": "#",
+        "instagramUrl": "#"
     },
-    "footerLinkTitleOne": "Services",
+    "footerLinkTitleOne": "Informasi Kontak",
     "navListOne": [
         {
-            "navTitle": "Marketing",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "SEO/SEM",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Development",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "UX Design",
-            "navUrl": "/" 
+            "navTitle": "Jl. M H. Thamrin No.29-31, DR. Soetomo, Kec. Tegalsari",
+            "navUrl": "" 
         }
+        
     ],
-    "footerLinkTitleTwo": "Products",
+    "footerLinkTitleTwo": "Jam Operasional",
     "navListTwo": [
         {
-            "navTitle": "Elementor Guru",
+            "navTitle": "Senin - Jumat: 07.00 - 14.00",
             "navUrl": "/" 
         },
         {
-            "navTitle": "WooLentor Pro",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Plugins",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Page Builder",
+            "navTitle": "Sabtu : 07.00 - 12.00",
             "navUrl": "/" 
         }
     ],
-    "footerLinkTitleThree": "About",
+
+    "footerLinkTitleThree": "Tentang Kami",
     "navListThree": [
         {
-            "navTitle": "Features",
-            "navUrl": "/" 
+            "navTitle" : "Agenda",
+            "navUrl": "/"
         },
         {
-            "navTitle": "Our Partners",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Affiliate Program",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Pricing",
-            "navUrl": "/" 
-        }
-    ],
-    "footerLinkTitleFour": "Contact",
-    "navListFour": [
-        {
-            "navTitle": "Support Ticket",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Help Desk",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Live Chat",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "FAQs",
-            "navUrl": "/" 
+            "navTitle": "Galeri",
+            "navUrl": "/"
         }
     ]
+    
 }

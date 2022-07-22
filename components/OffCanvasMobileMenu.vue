@@ -4,8 +4,8 @@
         <div class="inner custom-scrollbar">
             <div class="mobile-header">
                 <div class="logo">
-                    <n-link to="/">
-                        <img src="/images/logo/logo.png" alt="site logo">
+                    <n-link to="/" style="color: white;">
+                        <img class="dark-logo" src="/images/logo/yoga-logo.png" alt="site logo">
                     </n-link>
                 </div>
                 <button class="mobile-close-btn" @click="mobiletoggleClass('removeClass', 'show-mobile-menu')"></button>

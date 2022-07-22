@@ -1,10 +1,10 @@
 <template>
-    <div class="testimonial-section section-padding-t90 section-padding-bottom">
+    <div class="testimonial-section section-padding-t90 section-padding-bottom" :style="{ backgroundImage: `url(${'/images/bg/bg-testi.png'})`} ">
         <div class="container-fluid">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title fz-32">What our customers are saying about our services</h2>
-                <p class="sub-title">Get your company heading in the right direction with our digital marketing strategist</p>
+                <h2 class="title fz-32" style="color:white">Testimoni Yohannes Gabriel</h2>
+                <p class="sub-title" style="color:white">Alumni, Siswa, dan Orangtua</p>
             </div>
             <!-- Section Title End -->
 
@@ -59,24 +59,25 @@
                 testimonialData: [
                     {
                         id: 1,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
-                        imgSrc: "/images/testimonial/author-1.png",
-                        name: "Uzzal Hossain",
-                        position: "Frontend Developer"
+                        text: "Anak-anak belajar ilmu secara umum dan pendalaman iman Katolik setiap hari. Anak dilatih mandiri dan tidak bosan karena guru yang interaktif dan kreatif dalam pembelajaran",
+                        imgSrc: "/images/testimonial/testi-1.png",
+                        name: "Ima",
+                        position: "Orangtua Keneth & Celine"
+
                     },
                     {
                         id: 2,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
-                        imgSrc: "/images/testimonial/author-2.png",
-                        name: "Tasnim Akter",
-                        position: "Marketing Manager"
+                        text: "Hal konkrit dan buah kasih dari bersekolah di Karitas adalah yang mendorongku untuk berbelas kasih hingga mempersembahkan diriku sebagai seorang imam Keuskupan Surabaya",
+                        imgSrc: "/images/testimonial/testi-2.png",
+                        name: "RD. Yuventius Devi Ghawa",
+                        position: "Alumni TKK Karitas V & SMPK-SMAK Karitas III"
                     },
                     {
                         id: 3,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
-                        imgSrc: "/images/testimonial/author-3.png",
-                        name: "Yeasin Hossain",
-                        position: "Team Leader"
+                        text: "Anak-anak diajarkan iman Katolik yang menjadi penguat karakter. Dengan pengajar yang berpotensi, anak-anak kami diajarkan untuk disiplin dan juga mandiri.",
+                        imgSrc: "/images/testimonial/testi-3.png",
+                        name: "Ninik Luesiana",
+                        position: "Orangtua Cedric, Bellycia, Averycia"
                     }
                 ]
             }

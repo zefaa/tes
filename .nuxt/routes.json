@@ -3,90 +3,105 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_4a6997da"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_d46005b0"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/contact-us.vue",
-    "chunkName": "pages/contact-us"
+    "chunkName": "pages/contact-us",
+    "_name": "_34b72d6e"
   },
   {
     "name": "home-three",
     "path": "/home-three",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/home-three.vue",
-    "chunkName": "pages/home-three"
+    "chunkName": "pages/home-three",
+    "_name": "_5e016eb3"
   },
   {
     "name": "home-two",
     "path": "/home-two",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/home-two.vue",
-    "chunkName": "pages/home-two"
+    "chunkName": "pages/home-two",
+    "_name": "_913280be"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/project/index.vue",
-    "chunkName": "pages/project/index"
+    "chunkName": "pages/project/index",
+    "_name": "_ee879bae"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/service/index.vue",
-    "chunkName": "pages/service/index"
+    "chunkName": "pages/service/index",
+    "_name": "_aa224a76"
   },
   {
     "name": "blog-blog-classic",
     "path": "/blog/blog-classic",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/blog/blog-classic.vue",
-    "chunkName": "pages/blog/blog-classic"
+    "chunkName": "pages/blog/blog-classic",
+    "_name": "_273c6401"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/blog/blog-details.vue",
-    "chunkName": "pages/blog/blog-details"
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_9340749e"
   },
   {
     "name": "project-project-details",
     "path": "/project/project-details",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/project/project-details.vue",
-    "chunkName": "pages/project/project-details"
+    "chunkName": "pages/project/project-details",
+    "_name": "_88e03fb6"
   },
   {
     "name": "blog-categories-slug",
     "path": "/blog/categories/:slug?",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/blog/categories/_slug.vue",
-    "chunkName": "pages/blog/categories/_slug"
+    "chunkName": "pages/blog/categories/_slug",
+    "_name": "_4931891e"
   },
   {
     "name": "blog-tags-slug",
     "path": "/blog/tags/:slug?",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/blog/tags/_slug.vue",
-    "chunkName": "pages/blog/tags/_slug"
+    "chunkName": "pages/blog/tags/_slug",
+    "_name": "_4adb1aae"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/blog/_slug.vue",
-    "chunkName": "pages/blog/_slug"
+    "chunkName": "pages/blog/_slug",
+    "_name": "_d7cd4840"
   },
   {
     "name": "service-slug",
     "path": "/service/:slug",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/service/_slug.vue",
-    "chunkName": "pages/service/_slug"
+    "chunkName": "pages/service/_slug",
+    "_name": "_ad8f8d06"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/imavi3/Downloads/exomac-corporate-business-vue-nuxt-js-template-2022-03-05-11-40-35-utc/exomac/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_6a21729f"
   }
 ]
