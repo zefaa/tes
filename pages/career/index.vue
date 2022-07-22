@@ -179,7 +179,7 @@
                       <div class="col-md-6 col-12 mb-3 mt-1">
                         <b-form-select
                           v-model="selected"
-                          :options="options"
+                          
                           class="mb-3"
                           size="lg"
                           style="font-size: 1rem"
@@ -243,7 +243,7 @@
                       <div class="col-md-6 col-12 mb-3 mt-1">
                         <b-form-select
                           v-model="selected"
-                          :options="options"
+                          
                           class="mb-3"
                           size="lg"
                           style="font-size: 1rem"
