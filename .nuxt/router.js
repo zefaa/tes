@@ -6,14 +6,20 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _4a6997da = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
 const _d46005b0 = () => interopDefault(import('../pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
+const _95efb978 = () => interopDefault(import('../pages/career/index.vue' /* webpackChunkName: "pages/career/index" */))
 const _34b72d6e = () => interopDefault(import('../pages/contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _5e016eb3 = () => interopDefault(import('../pages/home-three.vue' /* webpackChunkName: "pages/home-three" */))
 const _913280be = () => interopDefault(import('../pages/home-two.vue' /* webpackChunkName: "pages/home-two" */))
+const _423461ce = () => interopDefault(import('../pages/news/index.vue' /* webpackChunkName: "pages/news/index" */))
+const _6ce38504 = () => interopDefault(import('../pages/ppdb/index.vue' /* webpackChunkName: "pages/ppdb/index" */))
 const _ee879bae = () => interopDefault(import('../pages/project/index.vue' /* webpackChunkName: "pages/project/index" */))
 const _aa224a76 = () => interopDefault(import('../pages/service/index.vue' /* webpackChunkName: "pages/service/index" */))
+const _d08196ec = () => interopDefault(import('../pages/unit/index.vue' /* webpackChunkName: "pages/unit/index" */))
 const _273c6401 = () => interopDefault(import('../pages/blog/blog-classic.vue' /* webpackChunkName: "pages/blog/blog-classic" */))
 const _9340749e = () => interopDefault(import('../pages/blog/blog-details.vue' /* webpackChunkName: "pages/blog/blog-details" */))
+const _119da75e = () => interopDefault(import('../pages/news/news-details.vue' /* webpackChunkName: "pages/news/news-details" */))
 const _88e03fb6 = () => interopDefault(import('../pages/project/project-details.vue' /* webpackChunkName: "pages/project/project-details" */))
+const _3d327a1e = () => interopDefault(import('../pages/unit/unit-details.vue' /* webpackChunkName: "pages/unit/unit-details" */))
 const _4931891e = () => interopDefault(import('../pages/blog/categories/_slug.vue' /* webpackChunkName: "pages/blog/categories/_slug" */))
 const _4adb1aae = () => interopDefault(import('../pages/blog/tags/_slug.vue' /* webpackChunkName: "pages/blog/tags/_slug" */))
 const _d7cd4840 = () => interopDefault(import('../pages/blog/_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
@@ -40,6 +46,10 @@ export const routerOptions = {
     component: _d46005b0,
     name: "blog"
   }, {
+    path: "/career",
+    component: _95efb978,
+    name: "career"
+  }, {
     path: "/contact-us",
     component: _34b72d6e,
     name: "contact-us"
@@ -52,6 +62,14 @@ export const routerOptions = {
     component: _913280be,
     name: "home-two"
   }, {
+    path: "/news",
+    component: _423461ce,
+    name: "news"
+  }, {
+    path: "/ppdb",
+    component: _6ce38504,
+    name: "ppdb"
+  }, {
     path: "/project",
     component: _ee879bae,
     name: "project"
@@ -59,6 +77,10 @@ export const routerOptions = {
     path: "/service",
     component: _aa224a76,
     name: "service"
+  }, {
+    path: "/unit",
+    component: _d08196ec,
+    name: "unit"
   }, {
     path: "/blog/blog-classic",
     component: _273c6401,
@@ -68,9 +90,17 @@ export const routerOptions = {
     component: _9340749e,
     name: "blog-blog-details"
   }, {
+    path: "/news/news-details",
+    component: _119da75e,
+    name: "news-news-details"
+  }, {
     path: "/project/project-details",
     component: _88e03fb6,
     name: "project-project-details"
+  }, {
+    path: "/unit/unit-details",
+    component: _3d327a1e,
+    name: "unit-unit-details"
   }, {
     path: "/blog/categories/:slug?",
     component: _4931891e,

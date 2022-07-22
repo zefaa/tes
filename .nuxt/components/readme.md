@@ -51,3 +51,4 @@ You can directly use them in pages and other components without the need to impo
 - `<TestimonialSectionOne>` | `<testimonial-section-one>` (components/TestimonialSectionOne.vue)
 - `<TheFooter>` | `<the-footer>` (components/TheFooter.vue)
 - `<TheHeader>` | `<the-header>` (components/TheHeader.vue)
+- `<Unit>` | `<unit>` (components/Unit.vue)

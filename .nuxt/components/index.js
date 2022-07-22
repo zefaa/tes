@@ -43,6 +43,7 @@ export { default as TestimonialItem } from '../../components/TestimonialItem.vue
 export { default as TestimonialSectionOne } from '../../components/TestimonialSectionOne.vue'
 export { default as TheFooter } from '../../components/TheFooter.vue'
 export { default as TheHeader } from '../../components/TheHeader.vue'
+export { default as Unit } from '../../components/Unit.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
