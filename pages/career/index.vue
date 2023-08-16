@@ -46,17 +46,19 @@
                     <div class="col-xl-5 col-lg-6" data-aos="fade-up">
                       <div class="about-content-area about-one">
                         <!-- Section Title Two Start -->
-                        <div class="section-title-two" style="margin-top: 50px">
+                        <div class="section-title-two" style="margin-top: 30px">
                           <!-- <span class="sub-title">Every day brings new challenges</span> -->
                           <h3 class="title">Persyaratan</h3>
                         </div>
                         <!-- Section Title Two End -->
 
                         <div class="details-list">
-                          <li>Lulusan S1 Pendidikan</li>
-                          <li>IPK Min 3.00</li>
+                          <li>Lulusan S1/S2 sesuai bidang</li>
+                          <li>Fresh Graduate/Berpengalaman</li>
                           <li>Disiplin, Tegas dan Berintegritas</li>
                           <li>Agama Katolik / Kristen</li>
+                          <li>Usia maksimal 35 tahun</li>
+                          <li>Dapat bekerja sama dalam tim</li>
                           <li>
                             Memiliki kemampuan berbahas Inggris Menjadi Nilai
                             Tambah
@@ -64,7 +66,7 @@
                         </div>
                         <div
                           class="section-title-two"
-                          style="margin-top: 100px"
+                          style="margin-top: 30px"
                         >
                           <!-- <span class="sub-title">Every day brings new challenges</span> -->
                           <h3 class="title">Berkas Lamaran Pekerjaan</h3>

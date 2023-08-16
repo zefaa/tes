@@ -20,8 +20,11 @@
                                 <a :href="footerData.footerAboutWidget.twitterUrl" target="_blank">
                                     <i class="fab fa-twitter-square"></i>
                                 </a>
-                                <a :href="footerData.footerAboutWidget.fbUrl" target="_blank">
+                                <!-- <a :href="footerData.footerAboutWidget.fbUrl" target="_blank">
                                     <i class="fab fa-facebook-square"></i>
+                                </a> -->
+                                <a :href="footerData.footerAboutWidget.ytUrl" target="_blank">
+                                    <i class="fab fa-youtube fa-spin"></i>
                                 </a>
                                 <a :href="footerData.footerAboutWidget.instagramUrl" target="_blank">
                                     <i class="fab fa-instagram"></i>

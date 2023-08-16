@@ -82,26 +82,26 @@
               <div class="section-title-two">
                 <!-- <span class="sub-title">Every day brings new challenges</span> -->
                 <h3 class="title">
-                  Selamat bergabung di website resmi kami, Yayasan Yohannes
-                  Gabriel Perwakilan 1
+                  Selamat datang Saudara Saudari terkasih di website Yayasan
+                  Yohannes Gabriel.
                 </h3>
               </div>
               <!-- Section Title Two End -->
 
               <p>
-                Yayasan Yohannes Gabriel Perwakilan 1 Surabaya adalah yayasan
-                pendidikan yang mengelola sekolah-sekolah Katolik di Keuskupan
-                Surabaya. Kami terus mengembangkan diri sesuai dengan gerak
-                jaman agar dapat mendidik generasi penerus dan masa depan gereja
-                dan masyarakat. Melalui media website berserta seluruh jejaring
-                sosial yayasan, kami juga berharap agar sekolah-sekolah kami
-                makin dikenal sebagai sekolah Katolik milik Keuskupan Surabaya
-                yang dapat diandalkan.
+                Yayasan Yohannes Gabriel merupakan yayasan pendidikan katolik
+                yang telah berdiri sejak tahun 1925. Sejak semula kami
+                berkomitmen untuk memberikan yang terbaik bagi dunia pendidikan
+                di tanah air yang kita cintai, Indonesia. Setelah lebih dari 97
+                tahun, kami terus mengembangkan diri seturut perkembangan zaman
+                agar dapat mendidik penerus bangsa dan masa depan gereja dan
+                masyarakat dengan berlandaskan pada nilai-nilai kebangsaan dan
+                nilai-nilai katolik.
               </p>
               <n-link
                 to="/about"
                 class="btn btn-primary btn-hover-secondary mt-4"
-                >Tentang Kami</n-link
+                >Selengkapnya</n-link
               >
             </div>
           </div>
@@ -125,10 +125,7 @@
         <div class="row">
           <div class="col-lg-12 mx-auto">
             <div
-              class="
-                row row-cols-lg-4 row-cols-md-2 row-cols-sm-2 row-cols-1
-                mtn-30
-              "
+              class="row row-cols-lg-4 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30"
             >
               <!-- Funfact Start -->
               <div class="col mt-30" data-aos="fade-up">
@@ -241,10 +238,7 @@
         <!-- Section Title End -->
 
         <div
-          class="
-            row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1
-            mtn-60
-          "
+          class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-60"
         >
           <div
             class="col mt-30"

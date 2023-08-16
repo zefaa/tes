@@ -52,24 +52,26 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                   class="title"
                   style="text-align: center; margin-bottom: 20px"
                 >
-                  Selamat bergabung di website resmi kami, Yayasan Yohannes
-                  Gabriel Perwakilan 1.
+                  Selamat datang Saudara Saudari terkasih di website Yayasan
+                  Yohannes Gabriel.
                 </h4>
-                <p style="text-align: justify">
-                  Sejak berdiri tahun 1925, yayasan ini ada dan terus memberikan
-                  yang terbaik untuk mencerdaskan kehidupan bangsa. Kami terus
-                  mengembangkan diri sesuai dengan gerak jaman agar dapat
-                  mendidik generasi penerus dan masa depan gereja dan
-                  masyarakat. Nilai-nilai Katolik dan kebangsaan menjadi pedoman
-                  utama dalam membina para siswa di sekolah-sekolah kami ini.
-                  Melalui media website berserta seluruh jejaring sosial
-                  yayasan, kami juga berharap agar sekolah-sekolah kami makin
-                  dikenal sebagai sekolah Katolik milik Keuskupan Surabaya yang
-                  dapat diandalkan. Terlebih juga agar para wali murid makin
-                  percaya dengan sekolah-sekolah kami dalam mendidik dan membina
-                  anak-anak. Silahkan menghubungi kami untuk segala informasi
-                  yang dibutuhkan.”
-                </p>
+                <h6 style="text-align: justify">
+                  Yayasan Yohannes Gabriel merupakan yayasan pendidikan katolik
+                yang telah berdiri sejak tahun 1925. Sejak semula kami
+                berkomitmen untuk memberikan yang terbaik bagi dunia pendidikan
+                di tanah air yang kita cintai, Indonesia. Setelah lebih dari 97
+                tahun, kami terus mengembangkan diri seturut perkembangan zaman
+                agar dapat mendidik penerus bangsa dan masa depan gereja dan
+                masyarakat dengan berlandaskan pada nilai-nilai kebangsaan dan
+                nilai-nilai katolik. Melalui website yayasan Yohannes Gabriel
+                ini, kami ingin menjangkau masyarakat lebih luas lagi dengan
+                mengenalkan yayasan Yohannes Gabriel dan sekolah-sekolah yang
+                berada di bawah naungannya sebagai sekolah katolik milik
+                Keuskupan Surabaya yang transformatif, integral, dan kolegial.
+                Kami percaya keberadaan yayasan Yohannes Gabriel dapat membangun
+                dunia pendidikan dan menghadirkan generasi penerus bangsa,
+                masyarakat, dan gereja.
+                </h6>
                 <!-- <span class="sub-title">Web design and digital marketing</span>
                 <h3 class="title">
                   We think strategy, UX design, <br />
@@ -125,17 +127,12 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
       <div class="container text-center icon-up-down-animation">
         <!-- Section Title Start -->
         <div class="section-title text-center" data-aos="fade-up">
-          <h2 class="title fz-42">7 Budaya Yayasan</h2>
+          <h2 class="title fz-42">Nilai Keutamaan</h2>
           <!-- <p class="sub-title">Our team of designers, developers and creatives are perfectionists who love what they do and love where they work</p> -->
         </div>
         <!-- Section Title End -->
 
-        <div
-          class="
-            row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1
-            mtn-30
-          "
-        >
+        <div class=" row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30 ">
           <div class="col mt-30" data-aos="fade-up">
             <div class="contact-info">
               <div class="content">
@@ -145,7 +142,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       class="info-text"
                       style="font-size: 22px; margin-bottom: 20px"
                     >
-                      MERDEKA MEMILIH DAN TANGGUNG JAWAB
+                      SEMANGAT MISIONER
                     </span>
                   </div>
                 </div>
@@ -153,9 +150,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
 
               <div class="info">
                 <p style="margin-top: 20px">
-                  Setiap manusia diciptakan Allah dengan memiliki kebebasan.
-                  Merdeka memilih mengerjakan hal - hal yang baik dan benar
-                  sebagai bagian dalam karya Tuhan.
+                  Menjangkau warga Gereja dan masyarakat dengan semangat merasul demi terwujudnya persekutuan umat yang dewasa dalam iman, guyub, penuh pelayanan dan misioner, serta demi berkembangnya masyarakat bangsa yang cerdas, toleran dan beradab. 
                 </p>
               </div>
             </div>
@@ -171,7 +166,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       class="info-text"
                       style="font-size: 22px; margin-bottom: 20px"
                     >
-                      KERJASAMA - KOMUNIKATIF TERBUKA
+                     SEMANGAT KOMUNITER
                     </span>
                   </div>
                 </div>
@@ -179,14 +174,12 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
 
               <div class="info">
                 <p style="margin-top: 20px">
-                  Bekerja sama karena memiliki tujuan yang sama. Sebagai
-                  manusia, segala sesuatu bisa dibicarakan. Terbuka terhadap
-                  ide-ide yang segar dan baru ini memudahkan kita untuk bekerja
-                  dengan lebih baik.
+                  Terbuka (inklusif) dalam hidup bersama sebagai saudara melampaui batas-batas golongan, status dan pekerjaan.
                 </p>
               </div>
             </div>
           </div>
+  
 
           <div class="col mt-30" data-aos="fade-up">
             <div class="contact-info">
@@ -197,7 +190,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       class="info-text"
                       style="font-size: 22px; margin-bottom: 20px"
                     >
-                      PEMBELAJAR YANG TANGGUH
+                      SEMANGAT INSPIRATIF - KREATIF
                     </span>
                   </div>
                 </div>
@@ -205,34 +198,13 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
 
               <div class="info">
                 <p style="margin-top: 20px">
-                  Tidak mudah mengeluh jika mengalami kesulitan dalam belajar
-                  hal baru untuk mengembangkan pribadi ataupun organisasi.
+                  Terbuka terhadap gerak Roh Kudus yang menjiwai kerasulan, jeli membaca tanda-tanda zaman dan berani melakukan langkah-langkah terobosan.
                 </p>
               </div>
             </div>
           </div>
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                      DISIPLIN DAN JUJUR
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Disiplin berarti sikap dan perasaan taat dan patuh terhadap
-                  nilai-nilai yang dipercaya menjadi tanggung jawabnya.
-                </p>
-              </div>
-            </div>
-          </div>
+
+
 
           <div class="col mt-30" data-aos="fade-up">
             <div class="contact-info">
@@ -243,60 +215,22 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       class="info-text"
                       style="font-size: 22px; margin-bottom: 20px"
                     >
-                      CERMAT
+                      SEMANGAT SPIRITUAL-PERSONAL
                     </span>
                   </div>
                 </div>
               </div>
               <div class="info">
                 <p style="margin-top: 20px">
-                  Cermat dalam bekerja dan mampu menganalisa situasi dan solusi,
-                  serta mengutamakan ketepatan dan meminimalisir kesalahan.
+                  Meneladan St. Yohanes Gabriel Perboyre dalam menghayati kehadiran Allah dalam hati dan bersedia diubah-Nya agar memiliki tangan, lidah dan hati, pikiran, kehendak dan jiwa seperti yang dimiliki Kristus, Sang Penebus Ilahi.
                 </p>
               </div>
             </div>
           </div>
-
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                      EMPATI
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Mampu berbela rasa terhadap orang lain dan situasi sekitarnya.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <div class="info">
+<div class="info">
                 <p style="margin-top: 20px"></p>
               </div>
-            </div>
-          </div>
+  
           <div class="col mt-30" data-aos="fade-up">
             <div class="contact-info">
               <div class="content">
@@ -306,18 +240,22 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       class="info-text"
                       style="font-size: 22px; margin-bottom: 20px"
                     >
-                      BUDAYA MALU
+                      SEMANGAT EFEKTIF - INSTITUSIONAL
                     </span>
                   </div>
                 </div>
               </div>
               <div class="info">
                 <p style="margin-top: 20px">
-                  Kesadaran memiliki rasa malu bila melakukan kesalahan.
+                  Menyadari pentingnya tata kelola yang sehat dalam pelaksanaan pekerjaan dan semaksimal mungkin mengupayakannya di setiap momen pekerjaan dan operasional Yayasan.
                 </p>
               </div>
             </div>
           </div>
+
+          
+
+          
         </div>
         <!-- Icon Animation Start -->
         <!-- <div

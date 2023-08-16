@@ -8,72 +8,154 @@
         data-aos="fade-up"
       >
         <h2 class="title">Visi dan Misi</h2>
-        <p class="sub-title" style="font-size: 22px;line-height: 44px;color: black; max-width: 970px; margin-top: 50px">Mewujudkan Pendidikan Katolik Yang Membentuk Pribadi Berintegritas</p>
+        <p
+          class="sub-title"
+          style="
+            font-size: 22px;
+            line-height: 44px;
+            color: black;
+            max-width: 970px;
+            margin-top: 50px;
+          "
+        >
+          Mewujudkan Yayasan Pendidikan Katolik yang Transformatif,
+          Berintegritas dan Kolegial
+        </p>
       </div>
 
       <!-- Section Title End -->
 
-      <div
-        class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30"
-      >
-        <div class="col mt-30" data-aos="fade-up">
-          <div class="contact-info">
-            <div class="image-content">
-              <div class="image-box">
-                <div class="icon">
-                  <img src="/images/icon-animation/icon_misi.png" alt="Icon" />
-                </div>
-              </div>
-            </div>
-            <div class="info">
-              <span class="info-text">
-                Menanamkan nilai-nilai Katolik untuk membentuk pribadi yang
-                memiliki hati penuh kasih</span
-              >
-            </div>
-          </div>
-        </div>
 
-        <div class="col mt-30" data-aos="fade-up">
-          <div class="contact-info">
-            <div class="image-content">
-              <div class="image-box">
-                <div class="icon">
-                  <img src="/images/icon-animation/icon_misi3.png" alt="Icon" />
+<div class=" row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30 ">
+          <div class="col mt-30" data-aos="fade-up">
+            <div class="contact-info">
+              <div class="content">
+                <div class="box">
+                  <div class="info">
+                    <span
+                      class="info-text"
+                      style="font-size: 22px; margin-bottom: 20px; text-align: center"
+                    >
+                      PENDIDIKAN KATOLIK
+                    </span>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="info">
-              <!-- <h4 class="title">Give Us A Call</h4> -->
-              <span class="info-text">
-                Melaksanakan metode pembelajaran yang menghasilkan pribadi yang
-                mampu berpikir cerdas</span
-              >
-            </div>
-          </div>
-        </div>
 
-        <div class="col mt-30" data-aos="fade-up">
-          <div class="contact-info">
-            <div class="image-content">
-              <div class="image-box">
-                <div class="icon">
-                  <img src="/images/icon-animation/icon_misi2.png" alt="Icon" />
-                </div>
+              <div class="info">
+                <ul>
+                <li>
+                  Yayasan Yohannes Gabriel sebagai penyelenggara karya
+                  pendidikan milik Gereja Katolik Keuskupan Surabaya
+                </li>
+                <li>
+                  Yayasan Yohannes Gabriel dijiwai oleh terang iman Katolik. 
+                </li>
+                <li>
+                  Yayasan Yohannes Gabriel merupakan karya Gereja Katolik yang ditujukan bagi pencerdasan kehidupan bangsa berdasarkan Pancasila dan sesuai dengan UUD 1945.
+                </li>
+              </ul>
               </div>
             </div>
-            <div class="info">
-              <!-- <h4 class="title">Help Desk</h4> -->
-              <span class="info-text">
-                <!-- <a href="mailto:demo@example.com">demo@example.com</a>
-                                <br>
-                                <a href="mailto:demo@example.com">demo@example.com</a> -->
-                Membudayakan perilaku yang santun
-              </span>
+          </div>
+
+          <div class="col mt-30" data-aos="fade-up">
+            <div class="contact-info">
+              <div class="content">
+                <div class="box">
+                  <div class="info">
+                    <!-- <h4 class="title">Help Desk</h4> -->
+                    <span
+                      class="info-text"
+                      style="font-size: 22px; margin-bottom: 20px; text-align: center"
+                    >
+                      TRANSFORMATIF
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="info">
+                <ul>
+                <li>
+                  Responsif dan adaptif terhadap perkembangan dan kemajuan jaman. 
+                </li>
+                <li>
+                  Mewujudkan iklim pembelajaran yang inklusif dan berintegritas bagi masyarakat. 
+                </li>
+                <li>
+                  Mewujudkan masyarakat yang maju, berdaulat dan mandiri.
+                </li>
+              </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mt-30" data-aos="fade-up">
+            <div class="contact-info">
+              <div class="content">
+                <div class="box">
+                  <div class="info">
+                    <span
+                      class="info-text"
+                      style="font-size: 22px; margin-bottom: 20px; text-align: center"
+                    >
+                     BERINTEGRITAS
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="info">
+                <ul>
+                <li>
+                  Berdaya juang, setia dan bertanggung jawab.  
+                </li>
+                <li>
+                  Mewujudkan jenjang pendidikan katolik yang utuh dan berkesinambungan 
+                </li>
+                <li>
+                  Menghidupi spiritualitas kemuridan
+                </li>
+              </ul>
+              </div>
+            </div>
+          </div>
+
+  <div class="info">
+                <p style="margin-top: 20px"></p>
+              </div>
+
+          <div class="col mt-30" data-aos="fade-up">
+            <div class="contact-info">
+              <div class="content">
+                <div class="box">
+                  <div class="info">
+                    <span
+                      class="info-text"
+                      style="font-size: 22px; margin-bottom: 20px; text-align: center"
+                    >
+                       KOLEGIAL
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div class="info">
+                <ul>
+                <li>
+                  Mewujudkan semangat Gereja sebagai persekutuan yang guyub dan penuh pelayanan.  
+                </li>
+                <li>
+                  Mewujudkan sinergi antara lembaga pendidikan Katolik dan kehidupan Gereja Paroki. 
+                </li>
+                <li>
+                  Mewujudkan tata kelola yang kolektif-kolegial berdasar prinsip solidaritas dan subsidiaritas
+                </li>
+              </ul>
+              </div>
             </div>
           </div>
         </div>
-      </div>
 
       <shape-with-animation
         add-class-name="shape-1"

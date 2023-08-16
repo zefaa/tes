@@ -3,8 +3,7 @@
 .header-logo {
     & a {
         position: relative;
-
-        max-width: 158px;
+        max-width: 80px;
 
         & img {
             width: 100%;
@@ -25,7 +24,7 @@
 
     @media #{$extra-small-mobile} {
         & a {
-            max-width: 120px;
+            max-width: 50px;
         }
     }
 }

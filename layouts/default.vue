@@ -135,18 +135,26 @@
                   </p>
                 </div>
                 <div class="footer-social-inline">
-                  <a
+                  <!-- <a
                     :href="footerData.footerAboutWidget.twitterUrl"
                     style="color: white"
                   >
                     <i class="fab fa-twitter-square"></i>
-                  </a>
-                  <a
+                  </a> -->
+                  <!-- <a
                     :href="footerData.footerAboutWidget.fbUrl"
                     style="color: white"
                   >
                     <i class="fab fa-facebook-square"></i>
+                  </a> -->
+ 
+                   <a :href="footerData.footerAboutWidget.ytUrl"
+                    style="color: white"
+                  >
+                    <i class="fab fa-youtube"></i>
                   </a>
+
+                  
                   <a
                     :href="footerData.footerAboutWidget.instagramUrl"
                     style="color: white"

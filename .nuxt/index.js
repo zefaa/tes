@@ -12,8 +12,8 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_1e2d5089 from 'nuxt_plugin_plugin_1e2d5089' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_bootstrapvue_2bb6904e from 'nuxt_plugin_bootstrapvue_2bb6904e' // Source: ./bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_plugin_595bf506 from 'nuxt_plugin_plugin_595bf506' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_bootstrapvue_5278417c from 'nuxt_plugin_bootstrapvue_5278417c' // Source: ./bootstrap-vue.js (mode: 'all')
 import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ../plugins/vue-awesome-swiper.js (mode: 'all')
 import nuxt_plugin_silentbox_80b78152 from 'nuxt_plugin_silentbox_80b78152' // Source: ../plugins/silentbox.js (mode: 'all')
 import nuxt_plugin_vuejspaginate_185e95ec from 'nuxt_plugin_vuejspaginate_185e95ec' // Source: ../plugins/vuejs-paginate.js (mode: 'all')
@@ -70,7 +70,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"Yohannes Gabriel","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
+    head: {"title":"Yohannes Gabriel","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffacon.ico"}],"style":[],"script":[]},
 
     router,
     nuxt: {
@@ -184,12 +184,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_1e2d5089 === 'function') {
-    await nuxt_plugin_plugin_1e2d5089(app.context, inject)
+  if (typeof nuxt_plugin_plugin_595bf506 === 'function') {
+    await nuxt_plugin_plugin_595bf506(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_bootstrapvue_2bb6904e === 'function') {
-    await nuxt_plugin_bootstrapvue_2bb6904e(app.context, inject)
+  if (typeof nuxt_plugin_bootstrapvue_5278417c === 'function') {
+    await nuxt_plugin_bootstrapvue_5278417c(app.context, inject)
   }
 
   if (typeof nuxt_plugin_vueawesomeswiper_5ce03f58 === 'function') {
