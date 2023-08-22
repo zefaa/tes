@@ -130,7 +130,7 @@
               <!-- Funfact Start -->
               <div class="col mt-30" data-aos="fade-up">
                 <div class="funfact">
-                  <div class="number"><span class="counter">96</span>+</div>
+                  <div class="number"><span class="counter">97</span>+</div>
                   <h6 class="text">Tahun Pengalaman</h6>
                 </div>
               </div>
@@ -139,13 +139,13 @@
               <!-- Funfact Start -->
               <div class="col mt-30" data-aos="fade-up">
                 <div class="funfact">
-                  <div class="number"><span class="counter">26</span></div>
+                  <div class="number"><span class="counter">148</span></div>
                   <h6 class="text">Sekolah</h6>
                 </div>
               </div>
               <div class="col mt-30" data-aos="fade-up">
                 <div class="funfact">
-                  <div class="number"><span class="counter">500</span>+</div>
+                  <div class="number"><span class="counter">1000+</span>+</div>
                   <h6 class="text">Tenaga Pendidik Berpengalaman</h6>
                 </div>
               </div>
@@ -176,58 +176,9 @@
     </div>
 
     <!-- Team Achievments -->
-    <TeamOne />
+    <!-- <TeamOne /> -->
 
-    <!-- Events -->
-    <div
-      class="section-padding"
-      :style="{ backgroundImage: `url(${'/images/bg/bg-events.png'})` }"
-    >
-      <div class="container">
-        <SectionTitle
-          title="Kegiatan Yayasan Yohannes Gabriel"
-          style="font-family: 'Font Awesome 5 Brands'; font-size: 3rem"
-        />
-        <!-- sub-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." -->
-        <div class="skill-with-video-content">
-          <!-- Section Title Two Start -->
-
-          <!-- Section Title Two End -->
-
-          <!-- Agency List Start -->
-          <ul class="agency-list">
-            <li class="item">
-              <div class="icon">
-                <i class="fas fa-calendar"></i>
-              </div>
-              <div class="text">Januari 2022 : Pembelajaran Tatap Muka</div>
-            </li>
-            <li class="item">
-              <div class="icon">
-                <i class="fas fa-calendar"></i>
-              </div>
-              <div class="text">Januari 2022 : Pembelajaran Tatap Muka</div>
-            </li>
-            <li class="item">
-              <div class="icon">
-                <i class="fas fa-calendar"></i>
-              </div>
-              <div class="text">Januari 2022 : Pembelajaran Tatap Muka</div>
-            </li>
-            <li class="item">
-              <div class="icon">
-                <i class="fas fa-calendar"></i>
-              </div>
-              <div class="text">Januari 2022 : Pembelajaran Tatap Muka</div>
-            </li>
-          </ul>
-
-          <!-- Agency List End -->
-        </div>
-      </div>
-    </div>
-
-    <!-- News -->
+ <!-- News -->
     <div class="section-padding-t90-b100">
       <div class="container">
         <!-- Section Title Start -->
@@ -250,6 +201,57 @@
         </div>
       </div>
     </div>
+
+    <!-- Events -->
+    <div
+      class="section-padding-t90-b100"
+    >
+    <!-- :style="{ backgroundImage: `url(${'/images/bg/bg-events.png'})` }" -->
+      <div class="container">
+        <SectionTitle
+          title="Kegiatan Yayasan Yohannes Gabriel"
+          style="font-family: 'Font Awesome 5 Brands'; font-size: 3rem"
+        />
+        <!-- sub-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." -->
+        <div class="skill-with-video-content">
+          <!-- Section Title Two Start -->
+
+          <!-- Section Title Two End -->
+
+          <!-- Agency List Start -->
+          <ul class="agency-list">
+            <li class="item">
+              <div class="icon">
+                <i class="fas fa-calendar"></i>
+              </div>
+              <div class="text">September 2023 : Pengangkatan Pegawai Tetap Yayasan</div>
+            </li>
+            <li class="item">
+              <div class="icon">
+                <i class="fas fa-calendar"></i>
+              </div>
+              <div class="text">Oktober 2023 : Hari Ulang Tahun Yayasan Yohannes Gabriel</div>
+            </li>
+            <li class="item">
+              <div class="icon">
+                <i class="fas fa-calendar"></i>
+              </div>
+              <div class="text">November 2023 : - </div>
+            </li>
+            <li class="item">
+              <div class="icon">
+                <i class="fas fa-calendar"></i>
+              </div>
+              <div class="text">Desember 2023 : - </div>
+            </li>
+          </ul>
+
+          <!-- Agency List End -->
+        </div>
+      </div>
+    </div>
+
+   
 
     <!-- Testimoni -->
     <TestimonialSectionOne />
@@ -343,13 +345,13 @@ export default {
         {
           id: 1,
           heading: "Pendidikan Katolik ",
-          text: "Mendidik Generasi Penerus dan Masa Depan Gereja dan Masyarakat",
+          text: "Nilai-nilai Katolik Sebagai Pedoman Pembinaan Para Siswa",
           bgImgSrc: "/images/home/home-1.png",
         },
         {
           id: 2,
-          heading: "Pendidikan Katolik",
-          text: "Nilai-nilai Katolik Sebagai Pedoman Pembinaan Para Siswa",
+          heading: "Yayasan Yohannes Gabriel",
+          text: "Mendidik Generasi Penerus dan Masa Depan Negara, Gereja dan Masyarakat",
           bgImgSrc: "/images/home/home-2.png",
         },
       ],

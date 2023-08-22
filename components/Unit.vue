@@ -3,7 +3,7 @@
     <div class="container-fluid px-0">
       <div class="section-title text-center" data-aos="fade-up">
         <h2 class="title">DAFTAR UNIT</h2>
-        <p class="sub-title">YAYASAN YOHANNES GABRIEL PERWAKILAN I</p>
+        <p class="sub-title">YAYASAN YOHANNES GABRIEL PERWAKILAN SURABAYA I</p>
       </div>
 
       <div class="messonry-button text-center mb-60">
@@ -38,7 +38,11 @@
             </div>
             <div class="content">
               <h5 class="title">
-                <n-link to="/unit/unit-details">{{ unitData.title }}</n-link>
+                <!-- <n-link to="/unit/unit-details">{{ unitData.title }} {{unitData.title}}</n-link> -->
+              <div>{{ unitData.title }}</div>
+              <div>{{ unitData.alamat }}</div>
+              <div>{{ unitData.kontak }}</div>
+              <div>{{ unitData.email }}</div>
               </h5>
             </div>
           </div>
@@ -55,14 +59,17 @@ export default {
   data() {
     return {
       unitData: [
-        {
-          imgSrc: "/images/unit/tksda.png",
-          title: "TKK ST. MARIA SIDOARJO",
-          category: "tk",
-        },
+        // {
+        //   imgSrc: "/images/unit/tksda.png",
+        //   title: "TKK ST. MARIA SIDOARJO",
+        //   category: "tk",
+        // },
         {
           imgSrc: "/images/unit/tkatarina.png",
           title: "TKK KATARINA",
+          alamat : "Jl. Mojopahit 38 Surabaya",
+          kontak : "031 - 5671044",
+          email : "tkksantakatarinasby@gmail.com",
           category: "tk",
         },
         {
@@ -75,26 +82,26 @@ export default {
           title: "TKK ST. YUSUP KARANGPILANG",
           category: "tk",
         },
-        {
-          imgSrc: "/images/unit/tk-smptropodo.png",
-          title: "TKK ST. YUSUP TROPODO",
-          category: "tk",
-        },
-        {
-          imgSrc: "/images/unit/tk-smptropodo.png",
-          title: "SDK ST. YUSUP TROPODO",
-          category: "sd",
-        },
+        // {
+        //   imgSrc: "/images/unit/tk-smptropodo.png",
+        //   title: "TKK ST. YUSUP TROPODO",
+        //   category: "tk",
+        // },
+        // {
+        //   imgSrc: "/images/unit/tk-smptropodo.png",
+        //   title: "SDK ST. YUSUP TROPODO",
+        //   category: "sd",
+        // },
         {
           imgSrc: "/images/unit/tk-smakarpil.png",
           title: "SDK ST. YUSUP KARANGPILANG",
           category: "sd",
         },
-        {
-          imgSrc: "/images/unit/tk-smptropodo.png",
-          title: "SMP ST. YUSUP TROPODO",
-          category: "smp",
-        },
+        // {
+        //   imgSrc: "/images/unit/tk-smptropodo.png",
+        //   title: "SMP ST. YUSUP TROPODO",
+        //   category: "smp",
+        // },
         {
           imgSrc: "/images/unit/tk-smakarpil.png",
           title: "SMA ST. YUSUP KARANGPILANG",

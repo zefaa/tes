@@ -41,8 +41,40 @@
                     <li>
                       <n-link to="/about">Tentang</n-link>
                     </li>
-                    <li>
-                      <n-link to="/unit">Unit</n-link>
+                    <li class="has-children">
+                      <n-link to="">Unit</n-link>
+                      <ul class="sub-menu">
+                        <li>
+                          <n-link to="/unit">Perwakilan Surabaya 1</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/unit">Perwakilan Surabaya 2</n-link>
+                        </li>
+                         <li>
+                          <n-link to="/">Perwakilan Sidoarjo-Krian</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Mojokerto-Jombang-Nganjuk</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Kediri Kab-Kota</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Blitar Kab-Kota-Tulungagung</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Madiun Kab-Kota-Ponorogo</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Madiun Ngawi-Magetan</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Bojonegoro-Tuban</n-link>
+                        </li>
+                        <li>
+                          <n-link to="/">Perwakilan Cepu-Blora-Rembang</n-link>
+                        </li>
+                      </ul>
                     </li>
                     <li>
                       <n-link to="/news">Berita</n-link>

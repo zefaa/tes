@@ -65,7 +65,7 @@
         top: 100%;
         left: 0;
         visibility: hidden;
-        width: 240px;
+        max-width: 380px;
         margin-top: 20px;
         margin-bottom: 0;
         padding: 18px 0;
@@ -113,6 +113,7 @@
                         font-size: 8px;
                         font-weight: 900;
                         margin-left: auto;
+                        
                         content: "\f054";
                     }
                 }

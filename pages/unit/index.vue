@@ -3,7 +3,7 @@
     <OffCanvasMobileMenu />
     <BreadcrumbOne
       :items="items"
-      title="UNIT YAYASAN YOHANNES GABRIEL PERWAKILAN 1"
+      title="UNIT YAYASAN YOHANNES GABRIEL PERWAKILAN SURABAYA 1"
       backgroundUrl="/images/bg/unit.png"
     />
 
