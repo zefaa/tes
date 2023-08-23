@@ -62,7 +62,48 @@ export default {
       },
 
       teamData: [
-       
+       // {
+        //   id: 7,
+        //   imgSrc: "/images/team/ketum.jpg",
+        //   name: "Romo Tommy",
+        //   position: "Ketua Umum Yayasan",
+        // },
+        // {
+        //   id: 8,
+        //   imgSrc: "/images/team/kabid-kepd.jpg",
+        //   name: "Romo Karel",
+        //   position: "Ketua Bidang Kependidikan-Katolisitas",
+        // },
+        // {
+        //   id: 9,
+        //   imgSrc: "/images/team/kabid-keu.jpg",
+        //   name: "Romo Hans",
+        //   position: "Ketua Bidang Keuangan",
+        // },
+        // {
+        //   id: 10,
+        //   imgSrc: "/images/team/kabid-legal.jpg",
+        //   name: "Romo Domi",
+        //   position: "Ketua Bidang Legal-Kerjasama",
+        // },
+        // {
+        //   id: 11,
+        //   imgSrc: "/images/team/kabid-sarpras.jpg",
+        //   name: "Romo Novi",
+        //   position: "Ketua Bidang Sarana dan Prasarana",
+        // },
+        // {
+        //   id: 12,
+        //   imgSrc: "/images/team/kabid-sdm.jpg",
+        //   name: "Romo Udit",
+        //   position: "Ketua Bidang Sumber Daya Manusia",
+        // },
+        // {
+        //   id: 13,
+        //   imgSrc: "/images/team/bend.jpg",
+        //   name: "Romo Rudi",
+        //   position: "Bendahara Yayasan",
+        // },
                 {
           id: 15,
           imgSrc: "/images/team/team-lilis.png",
@@ -153,7 +194,51 @@ export default {
           name: "Arta",
           position: "Accounting",
         },
+         {
+          id: 16,
+          imgSrc: "/images/team/team-louren.png",
+          name: "Lourensia Ratri",
+          position: "Accounting",
+        },
+          {
+          id: 26,
+          imgSrc: "/images/team/team-sthevani.png",
+          name: "Sthevani Surya",
+          position: "Accounting",
+        },
         {
+          id: 20,
+          imgSrc: "/images/team/team-paula.png",
+          name: "Paula Dian",
+          position: "Accounting",
+        },
+       
+           {
+          id: 28,
+          imgSrc: "/images/team/team-tanti.png",
+          name: "Theresia Kristanti",
+          position: "Accounting",
+        },
+        {
+          id: 17,
+          imgSrc: "/images/team/team-maria.png",
+          name: "Maria Tanda Agung",
+          position: "Umum",
+        },
+         {
+          id: 29,
+          imgSrc: "/images/team/team-tata.png",
+          name: "Brigietta Irna",
+          position: "Umum",
+        },
+        
+        {
+          id: 31,
+          imgSrc: "/images/team/team-ve.png",
+          name: "Zefanya Devendra",
+          position: "Umum",
+        },
+         {
           id: 3,
           imgSrc: "/images/team/team-dian.png",
           name: "Patrianus Dikson",
@@ -165,116 +250,39 @@ export default {
           name: "Gregorius Najok",
           position: "RGU",
         },
-        // {
-        //   id: 7,
-        //   imgSrc: "/images/team/ketum.jpg",
-        //   name: "Romo Tommy",
-        //   position: "Ketua Umum Yayasan",
-        // },
-        // {
-        //   id: 8,
-        //   imgSrc: "/images/team/kabid-kepd.jpg",
-        //   name: "Romo Karel",
-        //   position: "Ketua Bidang Kependidikan-Katolisitas",
-        // },
-        // {
-        //   id: 9,
-        //   imgSrc: "/images/team/kabid-keu.jpg",
-        //   name: "Romo Hans",
-        //   position: "Ketua Bidang Keuangan",
-        // },
-        // {
-        //   id: 10,
-        //   imgSrc: "/images/team/kabid-legal.jpg",
-        //   name: "Romo Domi",
-        //   position: "Ketua Bidang Legal-Kerjasama",
-        // },
-        // {
-        //   id: 11,
-        //   imgSrc: "/images/team/kabid-sarpras.jpg",
-        //   name: "Romo Novi",
-        //   position: "Ketua Bidang Sarana dan Prasarana",
-        // },
-        // {
-        //   id: 12,
-        //   imgSrc: "/images/team/kabid-sdm.jpg",
-        //   name: "Romo Udit",
-        //   position: "Ketua Bidang Sumber Daya Manusia",
-        // },
-        // {
-        //   id: 13,
-        //   imgSrc: "/images/team/bend.jpg",
-        //   name: "Romo Rudi",
-        //   position: "Bendahara Yayasan",
-        // },
+        {
+          id: 22,
+          imgSrc: "/images/team/team-rafael.png",
+          name: "Rafael Kaflo",
+          position: "RGU",
+        },
+        
+        {
+          id: 24,
+          imgSrc: "/images/team/team-richard.png",
+          name: "Richard",
+          position: "RGU",
+        },
+        
+      
+        {
+          id: 27,
+          imgSrc: "/images/team/team-sugeng.png",
+          name: "Albertus Sugeng",
+          position: "RGU",
+        },
+        
        
 
-        // {
-        //   id: 16,
-        //   imgSrc: "/images/team/team-louren.JPG",
-        //   name: "Lourensia Ratri",
-        //   position: "Accounting",
-        // },
-        // {
-        //   id: 17,
-        //   imgSrc: "/images/team/team-maria.png",
-        //   name: "Maria Tanda Agung",
-        //   position: "Umum",
-        // },
+       
+        
         
        
-        // {
-        //   id: 20,
-        //   imgSrc: "/images/team/team-paula.png",
-        //   name: "Paula Dian",
-        //   position: "Accounting",
-        // },
         
-        // {
-        //   id: 22,
-        //   imgSrc: "/images/team/team-rafael.png",
-        //   name: "Rafael Kaflo",
-        //   position: "RGU",
-        // },
         
-        // {
-        //   id: 24,
-        //   imgSrc: "/images/team/team-richard.png",
-        //   name: "Richard",
-        //   position: "RGU",
-        // },
         
-        // {
-        //   id: 26,
-        //   imgSrc: "/images/team/team-sthevani.png",
-        //   name: "Sthevani Surya",
-        //   position: "Accounting",
-        // },
-        // {
-        //   id: 27,
-        //   imgSrc: "/images/team/team-sugeng.png",
-        //   name: "Albertus Sugeng",
-        //   position: "RGU",
-        // },
-        //  {
-        //   id: 28,
-        //   imgSrc: "/images/team/team-tanti.JPG",
-        //   name: "Theresia Kristanti",
-        //   position: "Accounting",
-        // },
-        //  {
-        //   id: 29,
-        //   imgSrc: "/images/team/team-tata.png",
-        //   name: "Brigietta Irna",
-        //   position: "Umum",
-        // },
+      
         
-        // {
-        //   id: 31,
-        //   imgSrc: "/images/team/team-ve.png",
-        //   name: "Zefanya Devendra",
-        //   position: "Umum",
-        // },
         
       ],
     };
