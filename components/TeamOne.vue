@@ -86,18 +86,18 @@ export default {
         //   name: "Romo Domi",
         //   position: "Ketua Bidang Legal-Kerjasama",
         // },
-        // {
-        //   id: 11,
-        //   imgSrc: "/images/team/kabid-sarpras.jpg",
-        //   name: "Romo Novi",
-        //   position: "Ketua Bidang Sarana dan Prasarana",
-        // },
-        // {
-        //   id: 12,
-        //   imgSrc: "/images/team/kabid-sdm.jpg",
-        //   name: "Romo Udit",
-        //   position: "Ketua Bidang Sumber Daya Manusia",
-        // },
+        {
+          id: 11,
+          imgSrc: "/images/team/kabid-sarpras.png",
+          name: "Romo Novi",
+          position: "Ketua Bidang Sarana dan Prasarana",
+        },
+        {
+          id: 12,
+          imgSrc: "/images/team/kabid-sdm.png",
+          name: "Romo Udit",
+          position: "Ketua Bidang Sumber Daya Manusia",
+        },
         // {
         //   id: 13,
         //   imgSrc: "/images/team/bend.jpg",

@@ -1,5 +1,5 @@
 <template>
-  <div class="section-padding-t90-b100">
+  <div class="section-padding-t90-b100" >
     <div class="container shape-animate">
       <!-- Section Title Start -->
       <div
