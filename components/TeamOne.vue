@@ -68,18 +68,6 @@ export default {
           name: "Arta",
           position: "Accounting",
         },
-        // {
-        //   id: 2,
-        //   imgSrc: "/images/team/team-flo.png",
-        //   name: "Florensia Dista",
-        //   position: "Legal-Kerjasama",
-        // },
-        // {
-        //   id: 3,
-        //   imgSrc: "/images/team/team-eric.png",
-        //   name: "Eric Leon",
-        //   position: "Legal-Kerjasama",
-        // },
         {
           id: 2,
           imgSrc: "/images/team/team-ayu.png",
@@ -92,12 +80,24 @@ export default {
           name: "Patrianus Dikson",
           position: "Umum",
         },
-        // {
-        //   id: 6,
-        //   imgSrc: "/images/team/team-goris.png",
-        //   name: "Gregorius Najok",
-        //   position: "RGU",
-        // },
+        {
+          id: 4,
+          imgSrc: "/images/team/team-flo.png",
+          name: "Florensia Dista",
+          position: "Legal-Kerjasama",
+        },
+        {
+          id: 5,
+          imgSrc: "/images/team/team-eric.png",
+          name: "Eric Leon",
+          position: "Legal-Kerjasama",
+        },
+        {
+          id: 6,
+          imgSrc: "/images/team/team-goris.png",
+          name: "Gregorius Najok",
+          position: "RGU",
+        },
         // {
         //   id: 7,
         //   imgSrc: "/images/team/ketum.jpg",
