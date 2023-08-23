@@ -143,6 +143,125 @@
     }
 }
 
+.contact-info2{
+    // display: flex;
+    // align-items: flex-start;
+    justify-items: center;
+    justify-content: center;
+    padding: 45px 30px 50px;
+    border-radius: 5px;
+    background-color: #d8e0ed;
+    // box-shadow: 0 0 40px rgba(51, 51, 51, 0.1);
+    transition: $transition;
+    // Responsive
+    @media #{$large-mobile}{
+        padding: 25px 30px 30px;
+        flex-wrap: wrap;
+    }
+    &.info-light{
+        padding: 25px 0;
+        background-color: transparent;
+        box-shadow: none;
+        border-radius: 0;
+        border-bottom: 1px solid #777;
+        &:last-child{
+            border-bottom: 0 none;
+            padding-bottom: 0;
+        }
+        .icon{
+            width: 55px;
+            // Responsive
+            @media #{$desktop-device}{
+                margin-right: 20px;
+            }
+            @media #{$large-mobile}{
+                margin-right: 15px;
+            }
+            @media #{$extra-small-mobile}{
+                margin-right: 0px;
+                margin-bottom: 15px;
+            }
+        }
+        .info{
+            .title{
+                color: $white;
+            }
+            .info-text{
+                color: $white;
+                strong{
+                    color: $white;
+                }
+            }
+        }
+    }
+    &.ct-info-two{
+        padding: 25px 0;
+        background-color: transparent;
+        box-shadow: none;
+        border-radius: 0;
+        border-bottom: 1px solid #e7e7e7;
+        &:last-child{
+            border-bottom: 0 none;
+            padding-bottom: 0;
+        }
+        .icon{
+            svg{
+                & path{
+                    stroke: $primary;
+                }
+            }
+            // Responsive
+            @media #{$desktop-device}{
+                margin-right: 20px;
+            }
+            @media #{$large-mobile}{
+                margin-right: 15px;
+            }
+            @media #{$extra-small-mobile}{
+                margin-right: 0px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+    .icon{
+        margin-right: 40px;
+        // Responsive
+        @media #{$desktop-device}{
+            margin-right: 20px;
+        }
+        @media #{$large-mobile}{
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        @media #{$extra-small-mobile}{
+            margin-right: 30px;
+            margin-bottom: 0px;
+        }
+        svg{
+            width: 50px;
+            & path{
+                stroke: $primary;
+            }
+        }
+    }
+    .info{
+        .title{
+            font-size: 20px;
+            line-height: 1;
+            font-weight: 400;
+            margin-bottom: 15px;
+        }
+        .info-text{
+            font-size: 16px;
+            display: block;
+            line-height: 27px;
+            strong{
+                color: $heading-color;
+            }
+        }
+    }
+}
+
 .contact-map-area{
     iframe{
         width: 100%;

@@ -3,9 +3,9 @@
     <div class="container">
       <!-- Section Title Start -->
       <div class="section-title text-center mb-60" data-aos="fade-up">
-        <h2 class="title">Our Team</h2>
+        <h2 class="title">Tim Yayasan</h2>
         <p class="sub-title">
-          Meet Our Team
+          Yohannes Gabriel
         </p>
       </div>
       <!-- Section Title End -->

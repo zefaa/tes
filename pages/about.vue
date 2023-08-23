@@ -21,17 +21,13 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
             style="padding-bottom: 200px"
           >
             <div
-              class="
-                about-image-area about-two about-shape-animation
-                right-0
-                mr-0
-              "
+              class="about-image-area about-two about-shape-animation right-0 mr-0"
             >
               <div class="about-image js-tilt">
-                <img src="/images/about/about-2.png" alt="image" />
+                <img src="/images/home/about.png" alt="image" />
               </div>
               <div class="about-image js-tilt">
-                <img src="/images/about/about-3.png" alt="image" />
+                <img src="/images/about/about-2.png" alt="image" />
               </div>
               <!-- Animation Shape Start -->
               <ShapeWithAnimation
@@ -57,20 +53,20 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                 </h4>
                 <h6 style="text-align: justify">
                   Yayasan Yohannes Gabriel merupakan yayasan pendidikan katolik
-                yang telah berdiri sejak tahun 1925. Sejak semula kami
-                berkomitmen untuk memberikan yang terbaik bagi dunia pendidikan
-                di tanah air yang kita cintai, Indonesia. Setelah lebih dari 97
-                tahun, kami terus mengembangkan diri seturut perkembangan zaman
-                agar dapat mendidik penerus bangsa dan masa depan gereja dan
-                masyarakat dengan berlandaskan pada nilai-nilai kebangsaan dan
-                nilai-nilai katolik. Melalui website yayasan Yohannes Gabriel
-                ini, kami ingin menjangkau masyarakat lebih luas lagi dengan
-                mengenalkan yayasan Yohannes Gabriel dan sekolah-sekolah yang
-                berada di bawah naungannya sebagai sekolah katolik milik
-                Keuskupan Surabaya yang transformatif, integral, dan kolegial.
-                Kami percaya keberadaan yayasan Yohannes Gabriel dapat membangun
-                dunia pendidikan dan menghadirkan generasi penerus bangsa,
-                masyarakat, dan gereja.
+                  yang telah berdiri sejak tahun 1925. Sejak semula kami
+                  berkomitmen untuk memberikan yang terbaik bagi dunia
+                  pendidikan di tanah air yang kita cintai, Indonesia. Setelah
+                  lebih dari 97 tahun, kami terus mengembangkan diri seturut
+                  perkembangan zaman agar dapat mendidik penerus bangsa dan masa
+                  depan gereja dan masyarakat dengan berlandaskan pada
+                  nilai-nilai kebangsaan dan nilai-nilai katolik. Melalui
+                  website yayasan Yohannes Gabriel ini, kami ingin menjangkau
+                  masyarakat lebih luas lagi dengan mengenalkan yayasan Yohannes
+                  Gabriel dan sekolah-sekolah yang berada di bawah naungannya
+                  sebagai sekolah katolik milik Keuskupan Surabaya yang
+                  transformatif, integral, dan kolegial. Kami percaya keberadaan
+                  yayasan Yohannes Gabriel dapat membangun dunia pendidikan dan
+                  menghadirkan generasi penerus bangsa, masyarakat, dan gereja.
                 </h6>
                 <!-- <span class="sub-title">Web design and digital marketing</span>
                 <h3 class="title">
@@ -117,165 +113,133 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
       <!-- Animation Shape End -->
     </div>
 
-    <!-- Vision - Mission -->
-    <CallToActionOne />
+    <!-- History -->
+    <div
+      class="faq-section section-padding-top overflow-hidden"
+      :style="{ backgroundColor: '#f8faff' }"
+    >
+      <div class="container">
+        <div class="row row-cols-lg-2 row-cols-1">
+          <!-- Faq Content Start -->
+          <div class="col mb-30">
+            <div class="faq-content">
+              <!-- Section Title Two Start -->
+              <div class="section-title-two">
+                <span class="sub-title"></span>
+                <h3 class="title">
+                  Sejarah <br />
+                  Yayasan Yohannes Gabriel
+                </h3>
+              </div>
+              <!-- Section Title Two End -->
 
-    <div class="line"><hr /></div>
+              <AccordionStyleOne />
+            </div>
+          </div>
+          <!-- Faq Content End -->
 
-    <!-- Culture -->
-    <div class="cta-section section-padding-250">
-      <div class="container text-center icon-up-down-animation">
-        <!-- Section Title Start -->
-        <div class="section-title text-center" data-aos="fade-up">
-          <h2 class="title fz-42">Nilai Keutamaan</h2>
-          <!-- <p class="sub-title">Our team of designers, developers and creatives are perfectionists who love what they do and love where they work</p> -->
+          <div class="col pl-xl-12">
+            <div class="about-image-area faq-image-area">
+              <div class="about-image right-n50 js-tilt">
+                <img src="/images/faq/faq-11.png" alt="image" />
+              </div>
+              <div class="about-image js-tilt">
+                <img src="/images/faq/faq-22.png" alt="image" />
+              </div>
+              <!-- Animation Shape Start -->
+              <ShapeWithAnimation
+                addClassName="shape-1"
+                data-depth="4"
+                imgSrc="/images/shape-animation/video-shape-1.png"
+              />
+            </div>
+          </div>
         </div>
-        <!-- Section Title End -->
-
-        <div class=" row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30 ">
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                      SEMANGAT MISIONER
-                    </span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Menjangkau warga Gereja dan masyarakat dengan semangat merasul demi terwujudnya persekutuan umat yang dewasa dalam iman, guyub, penuh pelayanan dan misioner, serta demi berkembangnya masyarakat bangsa yang cerdas, toleran dan beradab. 
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <!-- <h4 class="title">Help Desk</h4> -->
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                     SEMANGAT KOMUNITER
-                    </span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Terbuka (inklusif) dalam hidup bersama sebagai saudara melampaui batas-batas golongan, status dan pekerjaan.
-                </p>
-              </div>
-            </div>
-          </div>
-  
-
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                      SEMANGAT INSPIRATIF - KREATIF
-                    </span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Terbuka terhadap gerak Roh Kudus yang menjiwai kerasulan, jeli membaca tanda-tanda zaman dan berani melakukan langkah-langkah terobosan.
-                </p>
-              </div>
-            </div>
-          </div>
-
-
-
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                      SEMANGAT SPIRITUAL-PERSONAL
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Meneladan St. Yohanes Gabriel Perboyre dalam menghayati kehadiran Allah dalam hati dan bersedia diubah-Nya agar memiliki tangan, lidah dan hati, pikiran, kehendak dan jiwa seperti yang dimiliki Kristus, Sang Penebus Ilahi.
-                </p>
-              </div>
-            </div>
-          </div>
-<div class="info">
-                <p style="margin-top: 20px"></p>
-              </div>
-  
-          <div class="col mt-30" data-aos="fade-up">
-            <div class="contact-info">
-              <div class="content">
-                <div class="box">
-                  <div class="info">
-                    <span
-                      class="info-text"
-                      style="font-size: 22px; margin-bottom: 20px"
-                    >
-                      SEMANGAT EFEKTIF - INSTITUSIONAL
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <div class="info">
-                <p style="margin-top: 20px">
-                  Menyadari pentingnya tata kelola yang sehat dalam pelaksanaan pekerjaan dan semaksimal mungkin mengupayakannya di setiap momen pekerjaan dan operasional Yayasan.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          
-
-          
-        </div>
-        <!-- Icon Animation Start -->
-        <!-- <div
-          class="shape"
-          v-for="(shape, index) in shapeData"
-          :key="index"
-          :class="shape.className"
-        >
-          <span>
-            <img :src="shape.imgSrc" alt="icon" />
-          </span>
-        </div> -->
-        <!-- Icon Animation End -->
       </div>
     </div>
 
-<TeamOne />
+    <!-- Vision - Mission -->
+    <CallToActionOne />
 
-    <!-- Hsitory -->
-    <div class="timeline-area responsive-content area-padding theme-bg-gray">
+    <!-- <div class="line"><hr /></div> -->
+
+     <!-- Our Culture -->
+    <div class="section-padding-color">
+      <div class="container">
+        <div class="section-title-clr text-center mb-60" data-aos="fade-up">
+          <h2 class="title">Nilai Keutamaan Yayasan Yohannes Gabriel</h2>
+        </div>
+        <div class="row align-items-center">
+          <div class="offset-xl-1 col-xl-6 col-lg-6 col-12">
+            <div class="video-popup-area">
+              <div class="skill-video">
+                <client-only>
+                  <img class="image" src="/images/home/karir.png" alt="image" />
+                  <img
+                    class="image mt-60"
+                    src="/images/home/karir.png"
+                    alt="image"
+                  />
+                </client-only>
+              </div>
+
+              <!-- Animation Shape Start -->
+              <ShapeWithAnimation
+                addClassName="shape-1"
+                data-depth="1"
+                imgSrc="/images/shape-animation/video-shape-1.png"
+              />
+            </div>
+          </div>
+          <div class="col-xl-5 col-lg-6 col-12" data-aos="fade-up">
+            <div class="skill-with-video-content">
+              <!-- Section Title Two Start -->
+              <div class="section-title-two">
+                <p>
+                  <b /> 1. SEMANGAT MISIONER <br />Menjangkau warga Gereja dan
+                  masyarakat dengan semangat merasul demi terwujudnya
+                  persekutuan umat yang dewasa dalam iman, guyub, penuh
+                  pelayanan dan misioner, serta demi berkembangnya masyarakat
+                  bangsa yang cerdas, toleran dan beradab.
+                </p>
+                <p>
+                  2. SEMANGAT KOMUNITER
+                  <br />Terbuka (inklusif) dalam hidup bersama sebagai saudara
+                  melampaui batas-batas golongan, status dan pekerjaan.
+                </p>
+                <p>
+                  3. SEMANGAT INSPIRATIF - KREATIF
+                  <br />
+                  Terbuka terhadap gerak Roh Kudus yang menjiwai kerasulan, jeli
+                  membaca tanda-tanda zaman dan berani melakukan langkah-langkah
+                  terobosan.
+                </p>
+                <p>
+                  4. SEMANGAT SPIRITUAL-PERSONAL
+                  <br />
+                  Meneladan St. Yohanes Gabriel Perboyre dalam menghayati
+                  kehadiran Allah dalam hati dan bersedia diubah-Nya agar
+                  memiliki tangan, lidah dan hati, pikiran, kehendak dan jiwa
+                  seperti yang dimiliki Kristus, Sang Penebus Ilahi.
+                </p>
+                <p>
+                  5. SEMANGAT EFEKTIF - INSTITUSIONAL
+                  <br />
+                  Menyadari pentingnya tata kelola yang sehat dalam pelaksanaan
+                  pekerjaan dan semaksimal mungkin mengupayakannya di setiap
+                  momen pekerjaan dan operasional Yayasan.
+                </p>
+              </div>
+              <!-- Section Title Two End -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <TeamOne />
+
+    <!-- <div class="timeline-area responsive-content area-padding theme-bg-gray">
       <div class="timeline-fluid">
         <div class="container">
           <div class="row">
@@ -286,9 +250,8 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                 </h1>
               </div>
             </div>
-            <!-- end col-md-12 -->
           </div>
-          <!-- end row -->
+
           <div class="row">
             <div class="col-md-12">
               <div class="timeline-list">
@@ -308,16 +271,9 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       </div>
                     </div>
                   </div>
-                  <!-- end happening__period -->
+
                   <div
-                    class="
-                      happening__desc
-                      col-md-8
-                      col-sm-6
-                      col-sm-offset-0
-                      col-xs-offset-0
-                      col-md-offset-1
-                    "
+                    class="happening__desc col-md-8 col-sm-6 col-sm-offset-0 col-xs-offset-0 col-md-offset-1"
                   >
                     <h3 class="time__item-title">Perkumpulan</h3>
                     <p class="time__item-desc">
@@ -329,9 +285,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       Gabriel di berbagai daerah di Jawa Timur.
                     </p>
                   </div>
-                  <!-- end happening__desc -->
                 </div>
-                <!-- end row -->
 
                 <div class="happening row" style="margin-bottom: 40px">
                   <div class="happening__period col-md-3 col-sm-6 col-xs-15">
@@ -345,16 +299,9 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       </div>
                     </div>
                   </div>
-                  <!-- end happening__period -->
+
                   <div
-                    class="
-                      happening__desc
-                      col-md-8
-                      col-sm-6
-                      col-sm-offset-0
-                      col-xs-offset-0
-                      col-md-offset-1
-                    "
+                    class="happening__desc col-md-8 col-sm-6 col-sm-offset-0 col-xs-offset-0 col-md-offset-1"
                   >
                     <h3 class="time__item-title">
                       Berdirinya Gedung Yayasan Pusat
@@ -364,9 +311,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       No.42 Surabaya.
                     </p>
                   </div>
-                  <!-- end happening__desc -->
                 </div>
-                <!-- end row -->
 
                 <div class="happening row" style="margin-bottom: 40px">
                   <div class="happening__period col-md-3 col-sm-6 col-xs-15">
@@ -383,16 +328,8 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       </div>
                     </div>
                   </div>
-                  <!-- end happening__period -->
                   <div
-                    class="
-                      happening__desc
-                      col-md-8
-                      col-sm-6
-                      col-sm-offset-0
-                      col-xs-offset-0
-                      col-md-offset-1
-                    "
+                    class="happening__desc col-md-8 col-sm-6 col-sm-offset-0 col-xs-offset-0 col-md-offset-1"
                   >
                     <h3 class="time__item-title">
                       Yayasan Yohannes Gabriel Perwakilan 1
@@ -406,14 +343,10 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       Pusat.
                     </p>
                   </div>
-                  <!-- end happening__desc -->
                 </div>
-                <!-- end row -->
 
                 <div class="happening row" style="margin-bottom: 40px">
                   <div class="happening__period col-md-3 col-sm-6 col-xs-15">
-                    <!-- <div class="happening__period happening__periodlast theme-afr col-md-3 col-sm-6 col-xs-12"> -->
-
                     <h4 class="year__item-title" style="text-align: center">
                       2001-Sekarang
                     </h4>
@@ -424,18 +357,9 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       </div>
                     </div>
                   </div>
-                  <!-- end happening__period -->
                   <div
-                    class="
-                      happening__desc
-                      col-md-8
-                      col-sm-6
-                      col-sm-offset-0
-                      col-xs-offset-0
-                      col-md-offset-1
-                    "
+                    class="happening__desc col-md-8 col-sm-6 col-sm-offset-0 col-xs-offset-0 col-md-offset-1"
                   >
-                    <!-- <div class="happening__desc happening__desc2 col-md-8 col-md-offset-1 col-sm-6 col-xs-12 col-sm-offset-0 col-xs-offset-0"> -->
                     <h3 class="time__item-title">Perluasan</h3>
                     <p class="time__item-desc">
                       Tahun 2001 berdiri TKK St. Maria Wiyung dan SDK St.
@@ -447,57 +371,15 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                       katolik, mulai dari jenjang TK – SD – SMP – SMA.
                     </p>
                   </div>
-                  <!-- end happening__desc -->
                 </div>
-                <!-- end row -->
-
-                <!-- end row -->
               </div>
-              <!-- end timeline-list -->
             </div>
-            <!-- end col-md-12 -->
           </div>
-          <!-- end row -->
         </div>
-        <!-- container -->
       </div>
-      <!-- end timeline-fluid -->
-    </div>
+    </div> -->
 
-     <div class="faq-section section-padding-top overflow-hidden" :style="{backgroundColor: '#f8faff'}">
-        <div class="container">
-            <div class="row row-cols-lg-2 row-cols-1">
-                <!-- Faq Content Start -->
-                <div class="col mb-30">
-                    <div class="faq-content">
-                        <!-- Section Title Two Start -->
-                        <div class="section-title-two">
-                            <span class="sub-title"></span>
-                            <h3 class="title">Sejarah <br> Yayasan Yohannes Gabriel</h3>
-                        </div>
-                        <!-- Section Title Two End -->
-
-                        <AccordionStyleOne />
-                    </div>
-                </div>
-                <!-- Faq Content End -->
-
-                <div class="col pl-xl-12">
-                    <div class="about-image-area faq-image-area">
-                        <div class="about-image right-n50 js-tilt">
-                            <img src="/images/faq/faq-2.jpg" alt="image">
-                        </div>
-                        <div class="about-image js-tilt">
-                            <img src="/images/faq/faq-1.jpg" alt="image">
-                        </div>
-                        <!-- Animation Shape Start -->
-                        <ShapeWithAnimation addClassName="shape-1" data-depth="4" imgSrc="/images/shape-animation/video-shape-1.png" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+  
   </div>
 </template>
 
@@ -508,9 +390,10 @@ export default {
     BreadcrumbOne: () => import("@/components/BreadcrumbOne"),
     CallToActionOne: () => import("@/components/CallToActionOne"),
     ShapeWithAnimation: () => import("@/components/ShapeWithAnimation"),
-     TeamOne: () => import("@/components/TeamOne"),
-      AccordionStyleOne: () => import('@/components/AccordionStyleOne'),
-            ShapeWithAnimation: () => import('@/components/ShapeWithAnimation'),
+    TeamOne: () => import("@/components/TeamOne"),
+    AccordionStyleOne: () => import("@/components/AccordionStyleOne"),
+    ShapeWithAnimation: () => import("@/components/ShapeWithAnimation"),
+    SectionTitle: () => import("@/components/SectionTitle"),
   },
 
   data() {
