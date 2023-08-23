@@ -264,7 +264,7 @@
             <div class="video-popup-area">
               <div class="skill-video">
                 <client-only>
-                  <img class="image" src="/images/home/karir.png" alt="image" />
+                  <img class="image" src="/images/home/karirbg.png" alt="image" />
                 </client-only>
               </div>
 

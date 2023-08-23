@@ -4,8 +4,8 @@
 
     <BreadcrumbOne
       :items="items"
-      title="DAFTAR KARIR YAYASAN YOHANNES GABRIEL"
-      backgroundUrl="/images/bg/karir-bg.png"
+      title="KARIR YAYASAN YOHANNES GABRIEL"
+      backgroundUrl="/images/bg/karir_bg.png"
     />
 
     <!-- Emplpoyee Section Start -->
