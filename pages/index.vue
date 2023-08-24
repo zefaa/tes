@@ -178,7 +178,7 @@
     <!-- Team Achievments -->
     <!-- <TeamOne /> -->
 
- <!-- News -->
+    <!-- News -->
     <div class="section-padding-t90-b100">
       <div class="container">
         <!-- Section Title Start -->
@@ -203,23 +203,23 @@
     </div>
 
     <!-- Events -->
-    <div
+    <!-- <div
       class="section-padding-t90-b100"
-    >
+    > -->
     <!-- :style="{ backgroundImage: `url(${'/images/bg/bg-events.png'})` }" -->
-      <div class="container">
+    <!-- <div class="container">
         <SectionTitle
           title="Kegiatan Yayasan Yohannes Gabriel"
           style="font-family: 'Font Awesome 5 Brands'; font-size: 3rem"
-        />
-        <!-- sub-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." -->
-        <div class="skill-with-video-content">
-          <!-- Section Title Two Start -->
+        /> -->
+    <!-- sub-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." -->
+    <!-- <div class="skill-with-video-content"> -->
+    <!-- Section Title Two Start -->
 
-          <!-- Section Title Two End -->
+    <!-- Section Title Two End -->
 
-          <!-- Agency List Start -->
-          <ul class="agency-list">
+    <!-- Agency List Start -->
+    <!-- <ul class="agency-list">
             <li class="item">
               <div class="icon">
                 <i class="fas fa-calendar"></i>
@@ -244,14 +244,16 @@
               </div>
               <div class="text">Desember 2023 : - </div>
             </li>
-          </ul>
+          </ul> -->
 
-          <!-- Agency List End -->
-        </div>
+    <!-- Agency List End -->
+    <!-- </div>
       </div>
-    </div>
+    </div> -->
+    <!-- Events End -->
 
-   
+<!-- Prestasi -->
+<!-- Prestasi End -->
 
     <!-- Testimoni -->
     <TestimonialSectionOne />
@@ -264,7 +266,11 @@
             <div class="video-popup-area">
               <div class="skill-video">
                 <client-only>
-                  <img class="image" src="/images/home/karirbg.png" alt="image" />
+                  <img
+                    class="image"
+                    src="/images/home/karirbg.png"
+                    alt="image"
+                  />
                 </client-only>
               </div>
 

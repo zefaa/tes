@@ -237,7 +237,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
       </div>
     </div>
 
-    <TeamOne />
+    <!-- <TeamOne /> -->
 
     <!-- <div class="timeline-area responsive-content area-padding theme-bg-gray">
       <div class="timeline-fluid">
@@ -390,7 +390,7 @@ export default {
     BreadcrumbOne: () => import("@/components/BreadcrumbOne"),
     CallToActionOne: () => import("@/components/CallToActionOne"),
     ShapeWithAnimation: () => import("@/components/ShapeWithAnimation"),
-    TeamOne: () => import("@/components/TeamOne"),
+    // TeamOne: () => import("@/components/TeamOne"),
     AccordionStyleOne: () => import("@/components/AccordionStyleOne"),
     ShapeWithAnimation: () => import("@/components/ShapeWithAnimation"),
     SectionTitle: () => import("@/components/SectionTitle"),
