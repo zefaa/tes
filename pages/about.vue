@@ -174,7 +174,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
             <div class="video-popup-area">
               <div class="skill-video">
                 <client-only>
-                  <img class="image" src="/images/home/karir.png" alt="image" />
+                  <img class="image" src="/images/bg/nilai.png" alt="image" />
                   <img
                     class="image mt-60"
                     src="/images/home/karir.png"
