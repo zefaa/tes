@@ -177,7 +177,7 @@ YANG MEMBENTUK PRIBADI BERINTEGRITAS"
                   <img class="image" src="/images/bg/nilai.png" alt="image" />
                   <img
                     class="image mt-60"
-                    src="/images/home/karir.png"
+                    src="/images/bg/nilai2.png"
                     alt="image"
                   />
                 </client-only>
